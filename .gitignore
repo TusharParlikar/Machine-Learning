@@ -1,0 +1,58 @@
+# .gitignore for Machine Learning Course
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+ml_env/
+venv/
+env/
+ENV/
+.venv
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (optional - uncomment if datasets are large)
+# *.csv
+# *.xlsx
+# *.h5
+# *.pkl
+
+# Model files (optional)
+# *.joblib
+# *.pkl
+# saved_models/
+
+# Logs
+*.log
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+.coverage
+
+# Temporary files
+*.tmp
+temp/
