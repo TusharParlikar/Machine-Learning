@@ -38,6 +38,22 @@ This is a **complete, intensive Machine Learning bootcamp** designed to take you
 
 ## 📖 **Course Contents**
 
+### 🌙 **Dark Theme Version Available!**
+
+**Problem:** Jupyter notebooks (`.ipynb`) render with white backgrounds on GitHub, making them hard to read in dark mode.
+
+**Solution:** Check out the **[chapters-dark-theme/](chapters-dark-theme/)** folder for Markdown (`.md`) versions of all chapters!
+
+✅ **Dark theme friendly** - Perfect syntax highlighting  
+✅ **All content preserved** - Code, outputs, explanations  
+✅ **Fast loading** - No interactive components to render  
+✅ **GitHub optimized** - Beautiful rendering on GitHub
+
+👉 **For reading:** Use `.md` files in `chapters-dark-theme/`  
+👉 **For coding:** Use `.ipynb` files in `chapters/`
+
+---
+
 ### **✅ Phase 1: Foundation (Chapters 01-04) - COMPLETE!**
 
 #### **Chapter 01: NumPy Foundations** 🔢
